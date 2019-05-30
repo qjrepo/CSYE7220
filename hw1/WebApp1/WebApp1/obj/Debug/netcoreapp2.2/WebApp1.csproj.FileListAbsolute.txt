@@ -1,0 +1,93 @@
+/CSYE 7220/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+/CSYE 7220/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+/CSYE 7220/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+/CSYE 7220/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.dll
+/CSYE 7220/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.pdb
+/CSYE 7220/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+/CSYE 7220/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.dll
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.pdb
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
+/CSYE 7220/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Index2.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+C:/Users/Vm/Desktop/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+C:/Users/Vm/Desktop/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+C:/Users/Vm/Desktop/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.dll
+C:/Users/Vm/Desktop/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.pdb
+C:/Users/Vm/Desktop/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+C:/Users/Vm/Desktop/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Index2.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.dll
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.pdb
+C:/Users/Vm/Desktop/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
+/CSYE 7220/hw1/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+/CSYE 7220/hw1/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+/CSYE 7220/hw1/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+/CSYE 7220/hw1/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.dll
+/CSYE 7220/hw1/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.pdb
+/CSYE 7220/hw1/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+/CSYE 7220/hw1/WebApp1/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Index2.g.cshtml.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.dll
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.pdb
+/CSYE 7220/hw1/WebApp1/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
